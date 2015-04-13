@@ -1,7 +1,8 @@
 # lab3
 questionA:
-  g++ -o main main.cpp
-  ./main
+  編譯時 g++ -o main main.cpp
+  
+  執行時 ./main
   
 questionB:
   
